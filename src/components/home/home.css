@@ -2,4 +2,92 @@
 @tailwind components;
 @tailwind utilities;
 
+.home{
+    background-color: rgb(245,245,245);
+}
+.home img{
+    width: 100%;
+    max-height: 35rem;
+}
+#homeimg{
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    opacity: 0.85;
+    transition: opacity 0.35s;
+    background-color: rgba(0, 0, 0, 0);
+    filter: brightness(0.3);
+}
+
+.hero {
+    position: absolute;
+    top: 15rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fafafa;
+    font-weight: 900;
+}
+.hero h1{
+    font-size: 7em;
+}
+.hero p{
+    font-size: 1.5em;
+}
+.experience{
+    margin-top: 5rem;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.experience h3{
+    color: #058E76;
+    opacity: 0.6;
+    font-weight: 900;
+    font-size: 1.3em;
+}
+.experience h2{
+    color: #058E76;
+    font-weight: 900;
+    font-size: 2em;
+}
+.experience p{
+    font-size: 1.3em;
+    font-weight: 300;
+}
+.homecards{
+    display:grid; 
+    width: 80%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1.8rem; 
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+#img1 > img{
+    border-radius: 2%;
+    box-shadow: none;
+    max-width: 250rem;
+    max-height: 250rem;
+}
+#img1{
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    opacity: 0.85;
+    transition: opacity 0.35s;
+    filter: brightness(0.2); 
+    max-width: 100rem;
+}
+
+#text{
+    position: relative;
+    bottom: 50%;
+    color: #fafafa;
+    font-weight: bolder;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(7, 6, 6, 0.8);
+}
+
 
