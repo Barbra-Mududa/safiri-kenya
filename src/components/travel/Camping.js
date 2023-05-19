@@ -36,7 +36,7 @@ export default function Camping() {
         <h2 id="txt">Camping Experience</h2>
         <p id="content">Outdoor adventure, nature, campfires, tents, hiking, and starry nights.</p>
         <Carousel responsive={responsive}>
-            {camp.filter((card, ind) => ind < 4).map((card) => <Card card={card} />)}
+            {camp.filter((card, ind) => ind < 5).map((card) => <Card card={card} />)}
         </Carousel>
     </div>
   );
