@@ -89,28 +89,40 @@
       "title": "El Karama Lodge",
       "location": "Laikipia",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajBeTKpteT61z1KqAM4k3ZPMBsL6FMYZZcfa7KBVwHMWgEPHy",
-      "description": "csufdu"
+      "description": "El Karama Lodge in Sgana is a scenic retreat offering breathtaking views, relaxation, and a tranquil atmosphere in nature.",
+      "link": "https://www.elkaramalodge.com/"
     },
     {
       "id": 12,
-      "title": "El Karama Lodge",
-      "location": "Laikipia",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajBeTKpteT61z1KqAM4k3ZPMBsL6FMYZZcfa7KBVwHMWgEPHy",
-      "description": "csufdu"
+      "title": "Jangwani Camp ",
+      "location": "Sagana",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVD-8NiijypbDUoFETnhcCpF8P29p9mIn9w&usqp=CAU",
+      "description": "Jangwani Camp Sagana is an adventurous camp located in Sagana, offering a wide range of outdoor activities and accommodations.",
+      "link": "https://jangwani.co.ke/web/"
     },
     {
       "id": 13,
-      "title": "El Karama Lodge",
-      "location": "Laikipia",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajBeTKpteT61z1KqAM4k3ZPMBsL6FMYZZcfa7KBVwHMWgEPHy",
-      "description": "csufdu"
+      "title": "Kiboko Camp",
+      "location": "Naivasha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8UK4YoCst7UQSPLsGNThRAOqwymZw7K32A&usqp=CAU",
+      "description": "Kiboko Camp is a wilderness retreat offering rustic accommodations, outdoor activities, and a serene natural environment for relaxation and exploration.",
+      "link": "https://www.safarinow.com/go/kibokocamp/"
     },
     {
       "id": 14,
-      "title": "El Karama Lodge",
-      "location": "Laikipia",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajBeTKpteT61z1KqAM4k3ZPMBsL6FMYZZcfa7KBVwHMWgEPHy",
-      "description": "csufdu"
+      "title": "Ashnil Mara Camp",
+      "location": "Maasai Mara",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlDcUnzZUWiajN5ZNfSj7g4VHEX0B4gjQDA&usqp=CAU",
+      "description": "Ashnil Mara Camp is a luxurious safari camp in Kenya's Maasai Mara reserve, offering stunning wildlife views and excellent amenities.",
+      "link": "https://ashnilhotels.com/mara_camp/"
+    },
+    {
+      "id": 15,
+      "title": "Leopard Hill Camp",
+      "location": "Maasai Mara",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdOaupOvoqdLpy5-EhzZBB3QKStn7BFVX8w&usqp=CAU",
+      "description": "Leopard Hill Camp is a luxury safari camp offering an exclusive and immersive wildlife experience in a breathtaking natural setting.",
+      "link": "https://www.maasaimara.com/accommodation/leopard-hill"
     }
   ]
 }
