@@ -4,6 +4,7 @@ import img1 from '../../El Karama.png'
 import img2 from '../../HGate.png'
 import img3 from '../../Mt. Kenya.png'
 import './home.css';
+import Travel from '../travel/Travel';
 
 
 function Home() {
@@ -34,6 +35,7 @@ function Home() {
                 <h2 id='text'>Wild Safaris</h2>
             </div>
         </div>
+        <Travel/>
     </div>
   )
 }
