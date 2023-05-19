@@ -1,15 +1,28 @@
 .travelcont{
-    margin-left: auto;
+    margin-left: 30px;
     margin-right: auto;
+    margin-bottom: 10rem;
+}
+#maintrav{
+    color: #0081f9;
+    font-weight: 900;
+    font-size: 2.5em;
+    text-align: center;
+    background-color: white;
+    padding: 3rem;
+
 }
 #txt{
-    color: #058E76;
+    color: #0081f9;
     font-weight: 900;
     font-size: 2em;
+    margin-left: 5rem;
 }
 #content{
     font-size: 1.3em;
     font-weight: 300;
+    margin-left: 5rem;
+
 }
 .card-container{
     justify-content: space-around;
@@ -45,7 +58,7 @@
     opacity: 1;
     transition: opacity 0.35s;
     border-style: solid ;
-    border-color:black;
+    /* border-color:black; */
 }
 .card-img-overlay{
     position: absolute;

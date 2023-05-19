@@ -7,6 +7,7 @@ import Hiking from './Hiking';
 function Travel() {
   return (
     <div className='travelcont'>
+      <h2 id='maintrav'>Our Collection</h2>
        <Safari />
        <Camping />
        <Hiking />
