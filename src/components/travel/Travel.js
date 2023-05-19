@@ -1,17 +1,15 @@
 import React from 'react'
+import Camping from './Camping'
+import "./travel.css";
+import Safari from './Safari';
+import Hiking from './Hiking';
 
 function Travel() {
   return (
     <div className='travelcont'>
-        <div className='travel'>
-
-        </div>
-        <div className='travel'>
-
-        </div>
-        <div className='travel'>
-
-        </div>
+       <Safari />
+       <Camping />
+       <Hiking />
     </div>
   )
 }
