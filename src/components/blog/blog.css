@@ -1,0 +1,65 @@
+.blogcontainer .blogs{
+    margin-right: 10rem; 
+}
+.blog-page{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    left: 16rem;
+    right: 0;
+    position: absolute;
+}
+.blog-section{
+    display:grid; 
+    width: 90%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.8rem;  
+}
+.blogs{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+.blogs h2{
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    font-weight: 900;
+    color: #0081f9;
+}
+.blogs p{
+    margin-bottom: 30px;
+    width: 80%;
+    font-size: 1.5em;
+}
+.myblogs-card-4{
+    max-width: 400px;
+    background-color: #FFF;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    margin: 7px auto;
+    cursor: pointer;
+    box-shadow: 0 5px 5px 0 #565a59;
+}
+.myblogs-card-4 img{
+    transition: all 0.25s linear;
+    max-height: 14rem;
+    max-width: fit-content;
+}
+.myblogs-card-4 .blog-content{
+    position: relative;
+    padding: 15px;
+    background-color: #FFF;
+}
+.myblogs-description{
+    color: #0081f9;
+    font-size: 1.5em;
+}
+.myblogs-description h4{
+    color: #273751;
+    font-size: 1.5em;
+}
+#r{
+    text-decoration: underline;
+}
