@@ -2,6 +2,7 @@
     margin-left: 30px;
     margin-right: auto;
     margin-bottom: 10rem;
+    background-color: lightgray;
 }
 #maintrav{
     color: #0081f9;
@@ -121,3 +122,48 @@
 .card:hover img{
     transform: scale(1.1) rotate(-3deg);
 }
+.v-btn{
+    position: relative;
+    top: 24rem;
+    /* float: left; */
+    display: inline-flex;
+    width: 180px;
+    height: 55px;
+    margin: 0 15px;
+    perspective: 1000px;
+  }
+  .v-btn{
+    font-size: 19px;
+    letter-spacing: 1px;
+    transform-style: preserve-3d;
+    transform: translateZ(-25px);
+    transition: transform .25s;
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  .v-btn:before,
+  .v-btn:after{
+    position: absolute;
+    content: "View";
+    height: 55px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .v-btn:before{
+    color: #fff;
+    background: #0081f9;
+    transform: rotateY(0deg) translateZ(25px);
+  }
+  .v-btn:after{
+    color: #ffff;
+    background-color:transparent ;
+    transform: rotateX(90deg) translateZ(25px);
+  }
+  .v-btn:hover{
+    transform: translateZ(-25px) rotateX(-90deg);
+  }
