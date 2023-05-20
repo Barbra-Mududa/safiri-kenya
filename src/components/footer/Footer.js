@@ -32,6 +32,7 @@ function Footer() {
             <li><a href='#'>Home</a></li>
             <li><a href='#'>About</a></li>
             <li><a href='#'>Experience</a></li>
+            <li><a href='#'>Blog</a></li>
             <li><a href='#'>Contact</a></li>
         </ul>
         <p>©2023 Safiri Kenya | All Rights Reserved</p>
