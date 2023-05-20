@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';import Card from "./Cards";
+// import { Link } from 'react-router-dom';
 
-export default function Camping() {
+export default function Camping(card) {
   const [camp, setCamp] = useState([])
 
   const responsive = {
