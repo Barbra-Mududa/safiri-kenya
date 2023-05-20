@@ -46,7 +46,18 @@ nav {
     font-size: 1.8rem;
     font-weight: 900;
   }
-  
+  #login{
+    background-color: black;
+    color: #fafafa;
+    padding: 10px;
+    width: 130px;
+    font-weight: 900;
+    font-size: 1.7rem;
+    border-radius: 15px;
+  }
+  #login:hover{
+    background-color: #0081f9;
+  }
   /* .menu {
     cursor: pointer;
     display: none;

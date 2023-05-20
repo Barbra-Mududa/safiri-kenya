@@ -33,6 +33,7 @@ function Navbar({ user, setUser }) {
           <NavLink to="/contact" className="navlink" onClick={aLink}>
             Contact{" "}
           </NavLink>
+          <button id="login">Login</button>
         </div>
       </div>
     </nav>
