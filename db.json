@@ -1,128 +1,17 @@
 {
-  "safaris": [
+  "travels": [],
+  "reviews": [
     {
-      "id": 1,
-      "title": "Hell's Gate National Park",
-      "location": "Nakuru",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT48X9wZvsl9jgNIXWebUC-QqbD1GZU04n_RCghM0IpweMofnAW",
-      "description": "A dramatic gorge in Kenya with towering cliffs, geothermal activity, wildlife, and thrilling activities like biking and hiking.",
-      "link": "https://www.kws.go.ke/content/hells-gate-national-park"
+      "id": "1",
+      "author": "Barbs",
+      "content": "Beauiful views",
+      "rating": "4"
     },
     {
-      "id": 2,
-      "title": "Maasai Mara",
-      "location": "Narok",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eD-u7fBZCVUTV2kmDpaABPt8OC9c5BcaXw&usqp=CAU",
-      "description": " Vast savannah, iconic wildlife, annual migration, breathtaking landscapes, cultural Maasai encounters, unforgettable safari experiences, and nature's raw beauty.",
-      "link": "https://www.safaribookings.com/kenya/wildlife-photos"
-    },
-    {
-      "id": 3,
-      "title": "Ambosseli National Park",
-      "location": "Kajiado",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT48X9wZvsl9jgNIXWebUC-QqbD1GZU04n_RCghM0IpweMofnAW",
-      "description": "Serene savannah in Kenya with iconic elephants, Mount Kilimanjaro backdrop, and abundant wildlife. A photographer's paradise with breathtaking sunsets.",
-      "link": "https://amboseli.com/"
-    },
-    {
-      "id": 4,
-      "title": "The Cradle",
-      "location": "Lake Turkana",
-      "image": "https://www.govisitkenya.com/images/Lake-Turkana1.jpg",
-      "description": "A serene, picturesque bay with tranquil waters, lush vegetation, and stunning sunsets, offering a perfect escape to nature's embrace.",
-      "link": "https://www.tripadvisor.com/ShowUserReviews-g480201-d472312-r367072280-Lake_Turkana-Turkana_District_Rift_Valley_Province.html"
-    },
-    {
-      "id": 5,
-      "title": "Lake Nakuru",
-      "location": "Nakuru",
-      "image": "https://images.pexels.com/photos/7235411/pexels-photo-7235411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "Stunning soda lake in Kenya's Rift Valley, renowned for its flamingo population, diverse birdlife, and majestic wildlife.",
-      "link": "https://www.kws.go.ke/lake-nakuru-national-park"
-    }
-  ],
-  "hiking": [
-    {
-      "id": 6,
-      "title": "Mt. Kenya Trail",
-      "location": "Mt. Kenya",
-      "image": "https://www.wildpeakadventures.com/wp-content/uploads/2018/09/Mt-Kenya-climb.jpg",
-      "description": "Challenging and rewarding trek through Africa's second-highest peak, offering breathtaking scenery, unique flora, and awe-inspiring summit views.csufdu",
-      "link": "https://www.adventurealternative.com/mount-kenya-routes/"
-    },
-    {
-      "id": 7,
-      "title": "Kijabe Hills",
-      "location": "Kijabe",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-qVFENEIUE7LNoe3lkBklvfRrQzijf8V6-w&usqp=CAU",
-      "description": "Scenic and challenging trail in Kenya offering breathtaking views, lush forests, rugged terrain, and an immersive outdoor experience.",
-      "link": "https://www.alltrails.com/kenya/rift-valley/kijabe"
-    },
-    {
-      "id": 8,
-      "title": "Elephant Hill",
-      "location": "Nyandarua",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv7InnlurZxOwVQizuamQ-mgxwRR8bJkb2gQ&usqp=CAU",
-      "description": "Scenic trek through lush forests and rugged terrain, offering breathtaking views and a chance to spot elephants in their natural habitat.",
-      "link": "https://www.alltrails.com/trail/kenya/nyandarua/elephant-hill"
-    },
-    {
-      "id": 9,
-      "title": "Thomson Falls",
-      "location": "Ewaso Ng'iro",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0P7OIvGZWAmH6gXIH9pyPaxpthJsYgvayg&usqp=CAU",
-      "description": "Scenic trail in Kenya, leading to the mesmerizing Thomson Falls waterfall, offering breathtaking views and a tranquil nature experience.",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g303976-d4801208-Reviews-Thomson_Falls-Nyahururu_Central_Province.html"
-    },
-    {
-      "id": 10,
-      "title": "Ololosokuan ",
-      "location": "Ngong",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkJow8OB65_cipZYY7kTSQ0XSgJdb-1pVQQ&usqp=CAU",
-      "description": "Ololosokwan gorge in Ngong is where you walk through dry river beds, missing waterfalls, heart-stopping sheer cliff drops, and friendly baboons.",
-      "link": "https://letsdrift.co.ke/drift/ololosokwan/"
-    }
-  ],
-  "camping": [
-    {
-      "id": 11,
-      "title": "El Karama Lodge",
-      "location": "Laikipia",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajBeTKpteT61z1KqAM4k3ZPMBsL6FMYZZcfa7KBVwHMWgEPHy",
-      "description": "El Karama Lodge in Sgana is a scenic retreat offering breathtaking views, relaxation, and a tranquil atmosphere in nature.",
-      "link": "https://www.elkaramalodge.com/"
-    },
-    {
-      "id": 12,
-      "title": "Jangwani Camp ",
-      "location": "Sagana",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVD-8NiijypbDUoFETnhcCpF8P29p9mIn9w&usqp=CAU",
-      "description": "Jangwani Camp Sagana is an adventurous camp located in Sagana, offering a wide range of outdoor activities and accommodations.",
-      "link": "https://jangwani.co.ke/web/"
-    },
-    {
-      "id": 13,
-      "title": "Kiboko Camp",
-      "location": "Naivasha",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8UK4YoCst7UQSPLsGNThRAOqwymZw7K32A&usqp=CAU",
-      "description": "Kiboko Camp is a wilderness retreat offering rustic accommodations, outdoor activities, and a serene natural environment for relaxation and exploration.",
-      "link": "https://www.safarinow.com/go/kibokocamp/"
-    },
-    {
-      "id": 14,
-      "title": "Ashnil Mara Camp",
-      "location": "Maasai Mara",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlDcUnzZUWiajN5ZNfSj7g4VHEX0B4gjQDA&usqp=CAU",
-      "description": "Ashnil Mara Camp is a luxurious safari camp in Kenya's Maasai Mara reserve, offering stunning wildlife views and excellent amenities.",
-      "link": "https://ashnilhotels.com/mara_camp/"
-    },
-    {
-      "id": 15,
-      "title": "Leopard Hill Camp",
-      "location": "Maasai Mara",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdOaupOvoqdLpy5-EhzZBB3QKStn7BFVX8w&usqp=CAU",
-      "description": "Leopard Hill Camp is a luxury safari camp offering an exclusive and immersive wildlife experience in a breathtaking natural setting.",
-      "link": "https://www.maasaimara.com/accommodation/leopard-hill"
+      "author": "Daisy",
+      "content": "I enjoyed my eperience",
+      "rating": 4.5,
+      "id": "VcWvDe6"
     }
   ]
 }
